@@ -6,7 +6,7 @@
 * __RS School:__ SiarheiVS
 ## About myself:
 I not bad interpersonal skills. I can work in a team. I would like to learn and develop new skills in IT sphere.
-## *Skills*
+## Skills
 (in progress)
 ## Code example:
 (in progress)
@@ -15,7 +15,6 @@ I not bad interpersonal skills. I can work in a team. I would like to learn and 
 ## Education:
 * __University:__ Belarusian State Agricultural Academy, Accounting, analysis and audit in the agro-industrial complex
 * __Courses:__ ACCA DipIFR (rus)
-* 
 ## Languages
 * __English:__ A1 (in progress)
 * __Rusian:__ Native
